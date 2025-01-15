@@ -1,9 +1,9 @@
 {
-    "name": "lhridley/stream-util",
+    "name": "codementality/stream-util",
     "type": "library",
-    "description": "Helper utilities for dealing with streams. (fork)",
+    "description": "Helper utilities for dealing with streams. Forked and updated version of twistor/stream-util.",
     "license": "MIT",
-    "homepage": "http://github.com/lhridley/stream-util",
+    "homepage": "http://github.com/codementality/stream-util",
     "authors": [
         {
             "name": "Chris Leppanen",
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Lhridley\\": "src/"
+            "Codementality\\": "src/"
         }
     }
 }

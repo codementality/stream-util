@@ -1,6 +1,6 @@
 <?php
 
-namespace lhridley;
+namespace Codementality;
 
 /**
  * Helper functions for dealing with streams.

@@ -16,7 +16,7 @@ composer require lhridley/stream-util
 ## Usage
 
 ```php
-use Lhridley\StreamUtil;
+use Codementality\StreamUtil;
 
 $stream = fopen('php://temp', 'w+b');
 

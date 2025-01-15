@@ -1,9 +1,9 @@
 <?php
 
-namespace Lhridley\Tests;
+namespace Codementality\StreamUtil\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Lhridley\StreamUtil;
+use Codementality\StreamUtil;
 
 class StreamUtilTest extends \PHPUnit\Framework\TestCase
 {
