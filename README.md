@@ -1,16 +1,16 @@
 # Stream Utilities
 This is a forked and updated version of the original package, twistor/stream-util.
 
-[![Build Status](https://img.shields.io/travis/twistor/stream-util/master.svg?style=flat-square)](https://travis-ci.org/twistor/stream-util)
+![Status](https://github.com/github/docs/actions/workflows/tests.yml/badge.svg)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Packagist Version](https://img.shields.io/packagist/v/twistor/stream-util.svg?style=flat-square)](https://packagist.org/packages/twistor/stream-util)
+[![Packagist Version](https://img.shields.io/packagist/v/codementality/stream-util.svg?style=flat-square)](https://packagist.org/packages/codementality/stream-util)
 
 Helper functions for dealing with streams.
 
 ## Installation
 
 ```
-composer require lhridley/stream-util
+composer require codementality/stream-util
 ```
 
 ## Usage
