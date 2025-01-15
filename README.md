@@ -1,7 +1,7 @@
 # Stream Utilities
 This is a forked and updated version of the original package, twistor/stream-util.
 
-![Status](https://github.com/github/docs/actions/workflows/tests.yml/badge.svg)
+![Status)](https://github.com/codementality/stream-util/actions/workflows/tests.yml/badge.svg)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 [![Packagist Version](https://img.shields.io/packagist/v/codementality/stream-util.svg?style=flat-square)](https://packagist.org/packages/codementality/stream-util)
 
